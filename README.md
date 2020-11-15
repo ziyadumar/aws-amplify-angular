@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
-Using, AWS Amplify this project illustrated the basic functioning of CRUD to AWS DynamoDB and searching using AWS ElasticSearch. 
+Using, AWS Amplify this project illustrates the basic functioning of CRUD to AWS DynamoDB and searching using AWS ElasticSearch. 
 
 Read https://github.com/gsans/aws-amplify-workshop-angular for AWS account configuraion.
 You can completely rely on AWS free-tier for this setup.
