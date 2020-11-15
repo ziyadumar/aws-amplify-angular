@@ -10,7 +10,7 @@ const routes: Routes = [
     component: LoginComponent
   },
   {
-    path: 'rest',
+    path: '',
     component: RestaurantComponent
   }
 ];
